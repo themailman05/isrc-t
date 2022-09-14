@@ -1,21 +1,20 @@
 ---
-name: Simple Minter
-slug: simple-minter
-description: Simple Minter on Mintbase
+name: ISRC-T Minter
+slug: isrc-t-minter
+description: Simple ISRC-T Minter on Mintbase
 framework: Next.js
 css: Tailwind
 deployUrl: https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FMintbase%2Fexamples%2Ftree%2Fmain%2Fsimple-minter
 demoUrl: https://examples-simple-minter.vercel.app/
 ---
 
-# Simple Minter
+# ISRC-T Minter
 
-This examples shows a simple minter on Mintbase.
+This examples shows a simple ISRC-T Minter.
 
 ## Demo
 
-https://examples-simple-minter.vercel.app/
-
+https://isrc.me
 
 ## Try on CodeSandbox
 
